@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" width="150" height="50">
+  <style>
+    .logo-text {
+      font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; /* Common modern fonts */
+      font-size: 40px;
+      font-weight: 600; /* Semi-bold */
+      fill: #EAEAEA; /* Light grey for dark background */
+      letter-spacing: 1px;
+      text-anchor: middle; /* Center text */
+    }
+  </style>
+  <text x="75" y="40" class="logo-text">BETA</text>
+</svg>
