@@ -126,6 +126,21 @@ justify-content: space-around;
      border-radius: 8px;
 }
 
+.info-container {
+margin-top: 30px;
+ display: flex;
+  justify-content: space-around;
+   flex-wrap: wrap;
+    gap: 20px;
+    
+}
+.info-item{
+  flex-basis: 45%;
+  height: 65vh;
+   background-color: #333; 
+   padding: 20px;
+    border-radius: 8px;
+}
 
 
 /* Rodapé */
@@ -215,10 +230,17 @@ form button:hover {
 flex-basis: 90%;
 }
 .info-item {
-  padding: 0;
-  flex-basis: auto;
+    flex-basis: 45%;
+    background-color: #333;
+    padding: 0;
+    border-radius: 8px;
 }
 
+.info-item p {
+
+    margin: 0;
+    text-align: center;
+
 
 }
-
+}
